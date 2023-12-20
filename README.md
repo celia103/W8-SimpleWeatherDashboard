@@ -19,7 +19,7 @@ The Weather Dashboard is a tool for tracking weather forecasts. It uses the Open
 
 [Visit my application](https://celia103.github.io/W8-SimpleWeatherDashboard/)
 
-[Visit the GitHub repository](https://celia103.github.io/W8-SimpleWeatherDashboard/)
+[Visit the GitHub repository](https://github.com/celia103/W8-SimpleWeatherDashboard)
 
 - Application Screenshot:
 ![Application Screenshot 1](./screencaptures/screencapture-W8-SimpleWeatherDashboard-1.png)
